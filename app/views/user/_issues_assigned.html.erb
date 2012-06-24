@@ -1,4 +1,4 @@
-<h3><%= l(:label_assigned_issues) %></h3>
+<h3><%= l(:label_assigned_issues) %> (<%= issues.length %>)</h3>
 
 <%= render :partial => 'issues/list_simple', :locals => { :issues => issues } %>
 
