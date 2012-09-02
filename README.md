@@ -4,7 +4,7 @@ Shows the assigned issues on the user page
 
 ## Notes
 
-Designed and tested for Redmine 1.4.4, Version for Redmine 2.x may follow.
+Tested on Redmine 1.4.4 and 2.0.3
 
 ## Screenshot
 
