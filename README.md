@@ -8,7 +8,7 @@ Tested on Redmine 1.4.4 and 2.0.3
 
 ## Screenshot
 
-![Screenshot](https://github.com/klausmeyer/Redmine-User-Issues/raw/master/readme_screenshot.png)
+![Screenshot](https://github.com/klausmeyer/redmine_user_issues/raw/master/readme_screenshot.png)
 
 ## Licence
 
