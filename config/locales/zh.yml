@@ -1,0 +1,6 @@
+# Simplified Chinese strings go here for Rails i18n
+# Author: Steven.W
+# Based on file: en.yml
+
+zh:
+    label_assigned_issues: "已分配任务"
