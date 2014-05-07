@@ -1,5 +1,7 @@
 # Redmine User Issues
 
+**Note:** As I no more use redmine myself this plugin isn't further developed by me. Feel free to write me an email if you'd like to maintain the project in future.
+
 Shows the assigned issues on the user page
 
 ## Notes
