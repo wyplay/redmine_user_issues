@@ -6,11 +6,11 @@ Shows the assigned issues on the user page
 
 ## Notes
 
-Tested on Redmine 1.4.4 and 2.0.3
+Tested on Redmine 3.3.3 (wip 3.4.4)
 
 ## Screenshot
 
-![Screenshot](https://github.com/klausmeyer/redmine_user_issues/raw/master/readme_screenshot.png)
+![Screenshot](https://github.com/wyplay/redmine_user_issues/raw/master/readme_screenshot.png)
 
 ## Licence
 
